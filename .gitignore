@@ -167,3 +167,4 @@ predictions/
 *.ipynb
 
 test.py
+wandb/
